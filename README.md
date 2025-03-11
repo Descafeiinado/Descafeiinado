@@ -1,7 +1,7 @@
 ## Hello there! 
 
 - 💻 Systems Development and Analysis | IFBA
-- 💼 Software Development Intern at @ciandt 
+- 💼 Software Development Intern at [CI&T](https://github.com/ciandt)
 - 📫 Contact me: juliosousa.professional@gmail.com
 - 💕 He/his
 
